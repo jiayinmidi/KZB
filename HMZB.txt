@@ -201,12 +201,6 @@ CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8#https://play.kankanlive.com/l
 东森超视,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 东森超视,http://125.229.9.67:8524/http/220.130.87.218:8081/hls/64/806/ch014.m3u8
 
-🐲山西频道,#genre#
-闻喜综合频道,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
-运城公共,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
-运城科技,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
-运城综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8 
-
 🐲地方频道,#genre#
 广东珠江,https://smart.pendy.dpdns.org/Smart.php#http://gmxw.7766.org:808/hls/83/index.m3u8#http://183.11.239.36:808/hls/83/index.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8#http://183.11.239.36:808/hls/2/index.m3u8
@@ -601,6 +595,11 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🐲山西频道,#genre#
+闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
+运城公共,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+运城科技,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+运城综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8 
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8#https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0#https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8#http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
